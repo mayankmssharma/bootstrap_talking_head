@@ -1,0 +1,503 @@
+hi	hello what can i help you with
+can you suggest some books in data mining	sure suggesting books in data mining
+alright	You have the following options
+>) advanced data mining techniques
+>) agent intelligence through data mining
+>) applied data mining
+>) big data computing
+>) big data management and processing
+>) big data mining and analytics
+>) building data mining applications for crm
+>) clustering for data mining
+>) computational business analytics
+>) data mining
+<SILENCE>	would you like to borrow any of these ?
+can you show more books 	You have the following options
+>) data mining and knowledge discovery handbook
+>) data mining and knowledge discovery with evolutionary algorithms
+>) data mining for business intelligence
+>) data mining in bioinformatics
+>) data mining in biomedical imaging, signaling, and systems
+>) data mining methods for the content analyst
+>) data mining techniques
+>) data mining with computational intelligence
+>) data science and analytics with python
+>) data warehousing, data mining, and olap
+<SILENCE>	would you like to borrow any of these ?
+can you show books in another topic	what topic do you want
+machine learning	sure suggesting books in machine learning
+alright	You have the following options
+>) adaptation, learning, and optimization over networks
+>) applied text analysis with python
+>) bayesian programming
+>) bayesian reasoning and machine learning
+>) building machine learning systems with python
+>) cambridge handbook of cognitive science
+>) computing universe
+>) cultural foundations of learning
+>) cyberpsychology :
+>) data mining
+<SILENCE>	would you like to borrow any of these ?
+can you show more books	You have the following options
+>) deep learning
+>) deep learning :
+>) doing interview based qualitative research
+>) electrical machines
+>) elements of statistical learning
+>) film art
+>) first course in machine learning
+>) from matter to life :
+>) gaussian processes for machine learning
+>) genetic algorithms in search, optimization, and machine learning
+<SILENCE>	would you like to borrow any of these ?
+yes i will borrow deep learning	thanks for using the bothello	hello how is it going
+can i borrow some books in data structures and algorithms	sure suggesting books in in
+hi	hello what can i help you with
+can you suggest some books in algorithms	sure suggesting books in algorithms
+alright	You have the following options
+>) advances in computational algorithms and data analysis
+>) algorithms
+>) algorithms and complexity vol. a
+>) algorithms and data structures
+>) algorithms and data structures in c++
+>) algorithms and discrete applied mathematics
+>) algorithms and parallel computing
+>) algorithms and theory of computation handbook
+>) algorithms architectures and information systems security
+>) algorithms for analysis inference and control of boolean networks
+<SILENCE>	would you like to borrow any of these ?
+can you show more books	You have the following options
+>) algorithms for next generation sequencing
+>) algorithms for vlsi design automation
+>) algorithms for vlsi physical design automation
+>) algorithms in bioinformatics
+>) algorithms in real algebraic geometry
+>) algorithms on strings, trees, and sequences
+>) algorithms unlocked
+>) algorithms unplugged
+>) algorithms+ data structures = programs
+>) analysis of algorithms
+<SILENCE>	would you like to borrow any of these ?
+can you show books in another topic	what topic do you want
+networks	sure suggesting books in networks
+sure	You have the following options
+>) 3g, hspa and fdd versus tdd networking
+>) ambient networks
+>) best of the best
+>) bioinspired computing and networking
+>) book of wi-fi
+>) business data communications and networking
+>) comdex hardware and networking
+>) communication networking
+>) communications and networking
+>) computer communications and networking technologies
+<SILENCE>	would you like to borrow any of these ?
+yes	thanks for using the bot
+
+hi	hello what can i help you with
+can i borrow some books in machine learning	sure suggesting books in machine learning
+sure	You have the following options
+>) adaptation, learning, and optimization over networks
+>) applied text analysis with python
+>) bayesian programming
+>) bayesian reasoning and machine learning
+>) building machine learning systems with python
+>) cambridge handbook of cognitive science
+>) computing universe
+>) cultural foundations of learning
+>) cyberpsychology :
+>) data mining
+<SILENCE>	would you like to borrow any of these ?
+yes	thanks for using the bot
+
+hi	hello what can i help you with
+can you suggest some books in networks	sure suggesting books in networks
+alright	You have the following options
+>) 3g, hspa and fdd versus tdd networking
+>) ambient networks
+>) best of the best
+>) bioinspired computing and networking
+>) book of wi-fi
+>) business data communications and networking
+>) comdex hardware and networking
+>) communication networking
+>) communications and networking
+>) computer communications and networking technologies
+<SILENCE>	would you like to borrow any of these ?
+can you show more books	You have the following options
+>) computer networking
+>) computer networking with internet protocols and technology
+>) content networking
+>) data communications and networking
+>) digital signal processing handbook
+>) effective networking
+>) encyclopaedia of information technology for schools. vol 3
+>) end to end adaptive congestion control in tcp/ip networks
+>) engineering approach to computer networking
+>) ethernet networking for the small office and professional home office
+<SILENCE>	would you like to borrow any of these ?
+yes i would like to borrow computer networking	thanks for using the bot
+
+hi	hello what can i help you with
+i am looking for something in data mining	sure suggesting books in data mining
+alright	You have the following options
+>) advanced data mining techniques
+>) agent intelligence through data mining
+>) applied data mining
+>) big data computing
+>) big data management and processing
+>) big data mining and analytics
+>) building data mining applications for crm
+>) clustering for data mining
+>) computational business analytics
+>) data mining
+<SILENCE>	would you like to borrow any of these ?
+no can you show more	You have the following options
+>) data mining and knowledge discovery handbook
+>) data mining and knowledge discovery with evolutionary algorithms
+>) data mining for business intelligence
+>) data mining in bioinformatics
+>) data mining in biomedical imaging, signaling, and systems
+>) data mining methods for the content analyst
+>) data mining techniques
+>) data mining with computational intelligence
+>) data science and analytics with python
+>) data warehousing, data mining, and olap
+<SILENCE>	would you like to borrow any of these ?
+can you show books in another topic	what topic do you want
+i would like to see bioinformatics	sure suggesting books in bioinformatics
+alright	You have the following options
+>) algorithmic aspects of bioinformatics
+>) algorithms for next generation sequencing
+>) algorithms in bioinformatics
+>) basic bioinformatics
+>) bioinformatics
+>) bioinformatics - from genomes to therapies. vol 1
+>) bioinformatics - from genomes to therapies. vol 2
+>) bioinformatics - from genomes to therapies. vol 3
+>) bioinformatics algorithms
+>) bioinformatics and computational biology solutions using r and bioconductor
+<SILENCE>	would you like to borrow any of these ?
+yes	thanks for using the bot
+
+hi	hello what can i help you with
+can i borrow books in networks	sure suggesting books in networks
+sure	You have the following options
+>) 3g, hspa and fdd versus tdd networking
+>) ambient networks
+>) best of the best
+>) bioinspired computing and networking
+>) book of wi-fi
+>) business data communications and networking
+>) comdex hardware and networking
+>) communication networking
+>) communications and networking
+>) computer communications and networking technologies
+<SILENCE>	would you like to borrow any of these ?
+can you show more books	You have the following options
+>) computer networking
+>) computer networking with internet protocols and technology
+>) content networking
+>) data communications and networking
+>) digital signal processing handbook
+>) effective networking
+>) encyclopaedia of information technology for schools. vol 3
+>) end to end adaptive congestion control in tcp/ip networks
+>) engineering approach to computer networking
+>) ethernet networking for the small office and professional home office
+<SILENCE>	would you like to borrow any of these ?
+can you show books in another topic	what topic do you want
+machine learning	sure suggesting books in machine learning
+alright	You have the following options
+>) adaptation, learning, and optimization over networks
+>) applied text analysis with python
+>) bayesian programming
+>) bayesian reasoning and machine learning
+>) building machine learning systems with python
+>) cambridge handbook of cognitive science
+>) computing universe
+>) cultural foundations of learning
+>) cyberpsychology :
+>) data mining
+<SILENCE>	would you like to borrow any of these ?
+yes	thanks for using the bot
+
+hi	hello what can i help you with
+can you suggest some books in machine learning	sure suggesting books in machine learning
+alright	You have the following options
+>) adaptation, learning, and optimization over networks
+>) applied text analysis with python
+>) bayesian programming
+>) bayesian reasoning and machine learning
+>) building machine learning systems with python
+>) cambridge handbook of cognitive science
+>) computing universe
+>) cultural foundations of learning
+>) cyberpsychology :
+>) data mining
+<SILENCE>	would you like to borrow any of these ?
+can you show more books	You have the following options
+>) deep learning
+>) deep learning :
+>) doing interview based qualitative research
+>) electrical machines
+>) elements of statistical learning
+>) film art
+>) first course in machine learning
+>) from matter to life :
+>) gaussian processes for machine learning
+>) genetic algorithms in search, optimization, and machine learning
+<SILENCE>	would you like to borrow any of these ?
+can you show books in another topic	what topic do you want
+bioinformatics	sure suggesting books in bioinformatics
+alright	You have the following options
+>) algorithmic aspects of bioinformatics
+>) algorithms for next generation sequencing
+>) algorithms in bioinformatics
+>) basic bioinformatics
+>) bioinformatics
+>) bioinformatics - from genomes to therapies. vol 1
+>) bioinformatics - from genomes to therapies. vol 2
+>) bioinformatics - from genomes to therapies. vol 3
+>) bioinformatics algorithms
+>) bioinformatics and computational biology solutions using r and bioconductor
+<SILENCE>	would you like to borrow any of these ?
+yes	thanks for using the bot
+
+hi	hello what can i help you with
+can you look for some books in networks	sure suggesting books in networks
+alright	You have the following options
+>) 3g, hspa and fdd versus tdd networking
+>) ambient networks
+>) best of the best
+>) bioinspired computing and networking
+>) book of wi-fi
+>) business data communications and networking
+>) comdex hardware and networking
+>) communication networking
+>) communications and networking
+>) computer communications and networking technologies
+<SILENCE>	would you like to borrow any of these ?
+can you suggest more books	You have the following options
+>) computer networking
+>) computer networking with internet protocols and technology
+>) content networking
+>) data communications and networking
+>) digital signal processing handbook
+>) effective networking
+>) encyclopaedia of information technology for schools. vol 3
+>) end to end adaptive congestion control in tcp/ip networks
+>) engineering approach to computer networking
+>) ethernet networking for the small office and professional home office
+<SILENCE>	would you like to borrow any of these ?
+can you suggest books in another topic	You have the following options
+>) facebook effect
+>) fundamentals of diffusion based molecular communication in nanonetworks
+>) game theory for wireless communications and networking
+>) guide to networking essentials
+>) handbook of networking
+>) handbook of personal area networking technologies and protocols
+>) hands-on microsoft windows server 2003 networking
+>) hands-on networking
+>) head first c
+>) high performance tcp/ip networking
+<SILENCE>	would you like to borrow any of these ?
+can you show books in another topic	what topic do you want
+bioinformatics	sure suggesting books in bioinformatics
+sure	You have the following options
+>) algorithmic aspects of bioinformatics
+>) algorithms for next generation sequencing
+>) algorithms in bioinformatics
+>) basic bioinformatics
+>) bioinformatics
+>) bioinformatics - from genomes to therapies. vol 1
+>) bioinformatics - from genomes to therapies. vol 2
+>) bioinformatics - from genomes to therapies. vol 3
+>) bioinformatics algorithms
+>) bioinformatics and computational biology solutions using r and bioconductor
+<SILENCE>	would you like to borrow any of these ?
+yes	thanks for using the bot
+
+hi	hello what can i help you with
+Can i borrow some books in machine learning	sure suggesting books in machine learning
+alright	You have the following options
+>) adaptation, learning, and optimization over networks
+>) applied text analysis with python
+>) bayesian programming
+>) bayesian reasoning and machine learning
+>) building machine learning systems with python
+>) cambridge handbook of cognitive science
+>) computing universe
+>) cultural foundations of learning
+>) cyberpsychology :
+>) data mining
+<SILENCE>	would you like to borrow any of these ?
+yes	thanks for using the bot
+
+hi	hello what can i help you with
+can you suggest some books in networks	sure suggesting books in networks
+sure	You have the following options
+>) 3g, hspa and fdd versus tdd networking
+>) ambient networks
+>) best of the best
+>) bioinspired computing and networking
+>) book of wi-fi
+>) business data communications and networking
+>) comdex hardware and networking
+>) communication networking
+>) communications and networking
+>) computer communications and networking technologies
+<SILENCE>	would you like to borrow any of these ?
+can you show more books	You have the following options
+>) computer networking
+>) computer networking with internet protocols and technology
+>) content networking
+>) data communications and networking
+>) digital signal processing handbook
+>) effective networking
+>) encyclopaedia of information technology for schools. vol 3
+>) end to end adaptive congestion control in tcp/ip networks
+>) engineering approach to computer networking
+>) ethernet networking for the small office and professional home office
+<SILENCE>	would you like to borrow any of these ?
+yes	thanks for using the bot
+
+hi	hello what can i help you with
+I am looking for something in data mining	sure suggesting books in data mining
+alright	You have the following options
+>) advanced data mining techniques
+>) agent intelligence through data mining
+>) applied data mining
+>) big data computing
+>) big data management and processing
+>) big data mining and analytics
+>) building data mining applications for crm
+>) clustering for data mining
+>) computational business analytics
+>) data mining
+<SILENCE>	would you like to borrow any of these ?
+no can you show more 	You have the following options
+>) data mining and knowledge discovery handbook
+>) data mining and knowledge discovery with evolutionary algorithms
+>) data mining for business intelligence
+>) data mining in bioinformatics
+>) data mining in biomedical imaging, signaling, and systems
+>) data mining methods for the content analyst
+>) data mining techniques
+>) data mining with computational intelligence
+>) data science and analytics with python
+>) data warehousing, data mining, and olap
+<SILENCE>	would you like to borrow any of these ?
+can you show books in another topic	what topic do you want
+i would like to see bioinformatics	sure suggesting books in bioinformatics
+alright	You have the following options
+>) algorithmic aspects of bioinformatics
+>) algorithms for next generation sequencing
+>) algorithms in bioinformatics
+>) basic bioinformatics
+>) bioinformatics
+>) bioinformatics - from genomes to therapies. vol 1
+>) bioinformatics - from genomes to therapies. vol 2
+>) bioinformatics - from genomes to therapies. vol 3
+>) bioinformatics algorithms
+>) bioinformatics and computational biology solutions using r and bioconductor
+<SILENCE>	would you like to borrow any of these ?
+yes i would like to borrow algorithms	thanks for using the bot
+
+hi	hello what can i help you with
+i would like to see something in machine learning	sure suggesting books in machine learning
+alright	You have the following options
+>) adaptation, learning, and optimization over networks
+>) applied text analysis with python
+>) bayesian programming
+>) bayesian reasoning and machine learning
+>) building machine learning systems with python
+>) cambridge handbook of cognitive science
+>) computing universe
+>) cultural foundations of learning
+>) cyberpsychology :
+>) data mining
+<SILENCE>	would you like to borrow any of these ?
+yes i would like to borrow bayesian programming	thanks for using the bot
+
+hi	hello what can i help you with
+i would like to see something in networks	sure suggesting books in networks
+alright	You have the following options
+>) 3g, hspa and fdd versus tdd networking
+>) ambient networks
+>) best of the best
+>) bioinspired computing and networking
+>) book of wi-fi
+>) business data communications and networking
+>) comdex hardware and networking
+>) communication networking
+>) communications and networking
+>) computer communications and networking technologies
+<SILENCE>	would you like to borrow any of these ?
+can you show more	You have the following options
+>) computer networking
+>) computer networking with internet protocols and technology
+>) content networking
+>) data communications and networking
+>) digital signal processing handbook
+>) effective networking
+>) encyclopaedia of information technology for schools. vol 3
+>) end to end adaptive congestion control in tcp/ip networks
+>) engineering approach to computer networking
+>) ethernet networking for the small office and professional home office
+<SILENCE>	would you like to borrow any of these ?
+no	do you want to start a new query
+yes	how can i help you with
+I would like to see something in data mining	sure suggesting books in data mining
+alright	You have the following options
+>) advanced data mining techniques
+>) agent intelligence through data mining
+>) applied data mining
+>) big data computing
+>) big data management and processing
+>) big data mining and analytics
+>) building data mining applications for crm
+>) clustering for data mining
+>) computational business analytics
+>) data mining
+<SILENCE>	would you like to borrow any of these ?
+no not really 	You have the following options
+>) data mining and knowledge discovery handbook
+>) data mining and knowledge discovery with evolutionary algorithms
+>) data mining for business intelligence
+>) data mining in bioinformatics
+>) data mining in biomedical imaging, signaling, and systems
+>) data mining methods for the content analyst
+>) data mining techniques
+>) data mining with computational intelligence
+>) data science and analytics with python
+>) data warehousing, data mining, and olap
+<SILENCE>	would you like to borrow any of these ?
+yes i would like to borrow the second one	thanks for using the bot
+
+hi	hello what can i help you with
+i need some help in networks	sure suggesting books in networks
+sure	You have the following options
+>) 3g, hspa and fdd versus tdd networking
+>) ambient networks
+>) best of the best
+>) bioinspired computing and networking
+>) book of wi-fi
+>) business data communications and networking
+>) comdex hardware and networking
+>) communication networking
+>) communications and networking
+>) computer communications and networking technologies
+<SILENCE>	would you like to borrow any of these ?
+no not really	You have the following options
+>) computer networking
+>) computer networking with internet protocols and technology
+>) content networking
+>) data communications and networking
+>) digital signal processing handbook
+>) effective networking
+>) encyclopaedia of information technology for schools. vol 3
+>) end to end adaptive congestion control in tcp/ip networks
+>) engineering approach to computer networking
+>) ethernet networking for the small office and professional home office
+<SILENCE>	would you like to borrow any of these ?
